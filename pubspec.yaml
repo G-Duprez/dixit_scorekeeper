@@ -1,0 +1,16 @@
+name: dixit_scorekeeper
+version: 0.1.0
+publish_to: 'none'
+description: Compteur de points Dixit multiplateforme minimal.
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
